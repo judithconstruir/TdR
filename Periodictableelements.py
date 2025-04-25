@@ -3,10 +3,6 @@
 #I'm really thankful to Olga, my chemistry teacher, who with her pacience and 
 #kindness, helped me love chemistry.
 import string
-#def dictionary_inside(dictionary):
-#        for key in dictionary:
-#            if type(key) == dict:
-#                return key
 
 class Element(): 
     def __init__(self, name, symbol, atomic_number, mass_number, energetic_levels, group, type, oxidation_number = None)-> None:
