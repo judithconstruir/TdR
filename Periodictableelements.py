@@ -1508,6 +1508,8 @@ def main():
         elif answer == 5:
             running = False
 
+main()
+
 
 simple_test_elements = ["O2"]
 simple_test_cations = ["Na(+)", "Fe(3+)", "H(+)", "Hg2(2+)"]
